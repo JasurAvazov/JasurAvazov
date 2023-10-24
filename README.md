@@ -1,5 +1,4 @@
-<h1 align="center">Hi 👋, I'm Jasur</h1>
-<h3 align="center">Frontend developer from Uzbekistan.</h3>
+<h1>Hi 👋, I'm Jasur</h1>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jasuravazov&label=Profile%20views&color=0e75b6&style=flat" alt="jasuravazov" /> </p>
 
