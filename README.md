@@ -1,4 +1,5 @@
 <h1>Hi 👋, I'm Jasur</h1>
+<h3>2 years of experience in js, 1 year in golang = 21 years of experience in total</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jasuravazov&label=Profile%20views&color=0e75b6&style=flat" alt="jasuravazov" /> </p>
 
